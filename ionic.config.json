@@ -1,0 +1,7 @@
+{
+  "name": "AplikasiCuaca-Nuy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
